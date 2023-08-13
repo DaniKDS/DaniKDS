@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cordiș Daniel</h1>
 <h3 align="center">Student at Babes-Bolyai University, Faculty of Mathematics and Computer Science</h3>
-
-- 🔭 I’m currently working on **JavaFx-Project**
-
 - 📫 How to reach me **cordis_dany@yahoo.com**
 
 <h3 align="left">Languages and Tools:</h3>

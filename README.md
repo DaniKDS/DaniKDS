@@ -31,9 +31,6 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
   </a>
-  <a href="https://asana.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="Asana" width="40" height="40"/>
-  </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   </a>

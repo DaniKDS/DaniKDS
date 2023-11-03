@@ -40,9 +40,6 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
-  <a href="https://dotnet.microsoft.com/apps/dotnet" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Microsoft_.NET_logo.png" alt="C# .NET" width="40" height="40"/>
-  </a>
 </p>
 
 ---

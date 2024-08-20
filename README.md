@@ -40,8 +40,9 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
  <a href="https://flywaydb.org/" target="_blank" rel="noreferrer">
-    <img src="https://flywaydb.org/assets/logo/flyway-logo-220x165.png" alt="Flyway" width="40" height="40"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/redgate/redgate-icon.svg" alt="Flyway" width="40" height="40"/>
+ </a>
+
   <a href="https://www.liquibase.org/" target="_blank" rel="noreferrer">
     <img src="https://www.liquibase.org/wp-content/uploads/2020/11/liquibase-logo.png" alt="Liquibase" width="40" height="40"/>
   </a>

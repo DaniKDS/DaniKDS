@@ -39,15 +39,14 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
-  <a href="https://flywaydb.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/flyway/flywaydb.org/main/public/assets/logo/flyway_logo_tm.png" alt="Flyway" width="40" height="40"/>
+ <a href="https://flywaydb.org/" target="_blank" rel="noreferrer">
+    <img src="https://flywaydb.org/assets/logo/flyway-logo-220x165.png" alt="Flyway" width="40" height="40"/>
   </a>
   <a href="https://www.liquibase.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/liquibase/liquibase-ar21.svg" alt="Liquibase" width="40" height="40"/>
+    <img src="https://www.liquibase.org/wp-content/uploads/2020/11/liquibase-logo.png" alt="Liquibase" width="40" height="40"/>
   </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/junit-team/junit5/main/assets/img/junit5-logo.png" alt="JUnit5" width="40" height="40"/>
-  </a>
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>

@@ -18,11 +18,12 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
+  </a>
+
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -38,13 +39,6 @@
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
- <a href="https://flywaydb.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/redgate/redgate-icon.svg" alt="Flyway" width="40" height="40"/>
- </a>
-
-  <a href="https://www.liquibase.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/liquibase/liquibase-icon.svg" alt="Liquibase" width="40" height="40"/>
   </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="40" height="40"/>
@@ -72,16 +66,19 @@
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
+  </a>
 </p>
 <h3 align="left">Experience:</h3>
 <ul>
   <li><strong>Betfair Romania Development</strong> - Java Intern</li>
   <ul>
     <li>Working on large-scale, distributed systems in the cloud</li>
-    <li>Experienced with <strong>AWS Cloud</strong> services and <strong>CloudFormation</strong></li>
-    <li>Implemented CI/CD pipelines using <strong>Jenkins</strong></li>
+    <li>Experienced with <strong>AWS Cloud</strong> services and <strong>ECS/CloudFormation/IAM/EC2/RDS/CloudWatch/S3</strong></li>
+    <li>Implemented CI/CD pipelines using <strong>Github Actions/Jenkins </strong></li>
     <li>Developed and managed databases with <strong>Flyway</strong> and <strong>Liquibase</strong></li>
-    <li>Hands-on with <strong>Docker</strong>, <strong>Kubernetes</strong>, and infrastructure as code using <strong>Terraform</strong></li>
+    <li>Hands-on with <strong>Kafka</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>
     <li>Writing clean, efficient code in Java and Kotlin following <strong>Clean Coding</strong> principles</li>
     <li>Extensive testing experience, including unit and integration testing with <strong>JUnit5</strong></li>
     <li>Embracing Agile methodologies for continuous improvement and collaboration</li>

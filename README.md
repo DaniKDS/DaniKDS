@@ -18,6 +18,15 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -31,13 +40,13 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
   <a href="https://flywaydb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flywaydb/flywaydb-icon.svg" alt="Flyway" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/flyway/flywaydb.org/main/public/assets/logo/flyway_logo_tm.png" alt="Flyway" width="40" height="40"/>
   </a>
   <a href="https://www.liquibase.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/liquibase/liquibase-icon.svg" alt="Liquibase" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/liquibase/liquibase-ar21.svg" alt="Liquibase" width="40" height="40"/>
   </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/junit5/junit5-icon.svg" alt="JUnit5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/junit-team/junit5/main/assets/img/junit5-logo.png" alt="JUnit5" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -59,9 +68,6 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>

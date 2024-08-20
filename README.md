@@ -44,7 +44,7 @@
  </a>
 
   <a href="https://www.liquibase.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.liquibase.org/wp-content/uploads/2020/11/liquibase-logo.png" alt="Liquibase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/liquibase/liquibase-icon.svg" alt="Liquibase" width="40" height="40"/>
   </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="40" height="40"/>

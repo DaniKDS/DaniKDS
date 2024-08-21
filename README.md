@@ -32,6 +32,8 @@
     <p>I'm proficient with a wide array of tools and technologies essential for software development:</p>
     <div align="center">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -61,8 +63,7 @@
             <ul>
                 <li>Received certification: <a href="https://learn.digitalstack.ro/mod/customcert/verify_certificate.php"> Java Bootcamp Betfair, Oct-Dec 2023, verify code: o0h7crUwNX </a></li>
                 <li>Learned about Advanced Java Class Design, Generics and Collections, Design Patterns, Streams and Functional Programming, Concurrency, Databases, and Post JDK8 concepts</li>
-                <li><img src="![image](https://github.com/user-attachments/assets/bb26fb3b-e7ab-49b0-966f-f0e9636a4fba)
-" alt="Java Bootcamp Certificate" width="600"/></li>
+                <li><img src="![image](https://github.com/user-attachments/assets/bb26fb3b-e7ab-49b0-966f-f0e9636a4fba)" alt="Java Bootcamp Certificate" width="600"/></li>
             </ul>
         <li><strong>Endava Cluj</strong> - Former Full-Stack Developer Intern</li>
         <ul>

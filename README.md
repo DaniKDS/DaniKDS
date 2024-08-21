@@ -11,7 +11,7 @@
     <h2>🌐 Connect with Me</h2>
     <p>I'm always open to connecting with like-minded professionals. You can find me on LinkedIn, or drop me an email if you'd like to collaborate or discuss anything tech-related. Let's innovate together!</p>
     <div align="center">
-        <a href="[https://www.linkedin.com/in/cordisdaniel](https://www.linkedin.com/in/cordi%C8%99-daniel-8557891b3/)">
+        <a href="[[https://www.linkedin.com/in/cordisdaniel](https://www.linkedin.com/in/cordi%C8%99-daniel-8557891b3/)](https://www.linkedin.com/in/cordi%C8%99-daniel-8557891b3/)">
             <img src="https://img.shields.io/badge/Cordiș-Daniel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
     </div>

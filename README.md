@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Cordiș+Daniel;Welcome+to..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=2500&pause=500&color=FF3333&center=true&vCenter=true&width=435&lines=Hey..+I'm+Cordiș+Daniel;Welcome+to..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 <div align="center">
@@ -11,7 +11,7 @@
     <h2>🌐 Connect with Me</h2>
     <p>I'm always open to connecting with like-minded professionals. You can find me on LinkedIn, or drop me an email if you'd like to collaborate or discuss anything tech-related. Let's innovate together!</p>
     <div align="center">
-        <a href="https://www.linkedin.com/in/cordisdaniel">
+        <a href="[https://www.linkedin.com/in/cordisdaniel](https://www.linkedin.com/in/cordi%C8%99-daniel-8557891b3/)">
             <img src="https://img.shields.io/badge/Cordiș-Daniel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
     </div>
@@ -35,6 +35,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -56,6 +57,15 @@
             <li>Extensive experience in unit and integration testing with JUnit5</li>
             <li>Embracing Agile methodologies for continuous improvement and collaboration</li>
         </ul>
+        <li><strong>Java Bootcamp Betfair (Oct-Dec 2023)</strong></li>
+            <ul>
+                <li>Received certification: <a href="https://learn.digitalstack.ro/mod/customcert/verify_certificate.php">Java Bootcamp Betfair, Oct-Dec 2023</a></li>
+                <li>Learned about Advanced Java Class Design, Generics and Collections, Design Patterns, Streams and Functional Programming, Concurrency, Databases, and Post JDK8 concepts</li>
+                <!-- Uncomment the below line if you want to upload a screenshot -->
+                <!-- <li><img src="path_to_your_screenshot.png" alt="Java Bootcamp Certificate" width="600"/></li> -->
+                <!-- Uncomment the below line if you want to upload the PDF -->
+                <!-- <li><a href="">View Certificate PDF</a></li> -->
+            </ul>
         <li><strong>Endava Cluj</strong> - Former Full-Stack Developer Intern</li>
         <ul>
             <li>Contributed to full-stack development projects focusing on user-centered design and performance</li>

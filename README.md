@@ -1,104 +1,74 @@
-<h1 align="center">Hi there! 👋 I'm Cordiș Daniel</h1>
-<h3 align="center">Aspiring Software Engineer | Java Enthusiast | Experienced in Full-Stack and DevOps</h3>
-<p align="center">
-  🎓 Graduated from <strong>Babeș-Bolyai University</strong>, Faculty of Mathematics and Computer Science, Class of 2024<br>
-  💻 Java Intern at <strong>Betfair Romania Development</strong>
-</p>
-📧 How to reach me: cordis_dany@yahoo.com
-
-<h3 align="left">About Me:</h3>
-<p align="left">
-  I'm a passionate software engineer with a strong foundation in Java and full-stack development. I graduated from <strong>Babeș-Bolyai University</strong> in 2024, where I developed a deep understanding of computer science principles and honed my technical skills. Currently, I am gaining invaluable experience as a Java Intern at <strong>Betfair Romania Development</strong>, where I have the opportunity to work on challenging projects and collaborate with industry experts.
-</p>
-<p align="left">
-  Previously, I worked at <strong>Endava Cluj</strong>, where I contributed to full-stack development projects, enhancing my ability to deliver high-quality software solutions.
-</p>
-<h3 align="left">Skills and Technologies:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit5" width="40" height="40"/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://reactjs.org/favicon.ico" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
-  </a>
-</p>
-<h3 align="left">Experience:</h3>
-<ul>
-  <li><strong>Betfair Romania Development</strong> - Java Intern</li>
-  <ul>
-    <li>Working on large-scale, distributed systems in the cloud</li>
-    <li>Experienced with <strong>AWS Cloud</strong> services and <strong>ECS/CloudFormation/IAM/EC2/RDS/CloudWatch/S3</strong></li>
-    <li>Implemented CI/CD pipelines using <strong>Github Actions/Jenkins </strong></li>
-    <li>Developed and managed databases with <strong>Flyway</strong> and <strong>Liquibase</strong></li>
-    <li>Hands-on with <strong>Kafka</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>
-    <li>Writing clean, efficient code in Java and Kotlin following <strong>Clean Coding</strong> principles</li>
-    <li>Extensive testing experience, including unit and integration testing with <strong>JUnit5</strong></li>
-    <li>Embracing Agile methodologies for continuous improvement and collaboration</li>
-  </ul>
-  <li><strong>Endava Cluj</strong> - Former Full-Stack Developer Intern</li>
-  <ul>
-    <li>Contributed to full-stack development projects with a focus on user-centered design and performance</li>
-    <li>Worked with <strong>JavaScript</strong> for front-end development</li>
-    <li>Integrated front-end solutions with back-end services in Java, .NET, and Spring Boot</li>
-    <li>Extensive experience in testing using <strong>Mockito</strong>, <strong>Selenium</strong>, and <strong>JUnit5</strong></li>
-    <li>Developed Android applications and contributed to Robotic Process Automation (RPA) projects</li>
-    <li>Collaborated closely with cross-functional teams to deliver high-quality software solutions</li>
-  </ul>
-</ul>
-🚀 Looking forward to connecting and exploring opportunities in software development and cloud technologies!
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Cordiș+Daniel;Welcome+to..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm an aspiring software engineer with a passion for Java and full-stack development. Having graduated from Babeș-Bolyai University in 2024, I'm now sharpening my skills as a Java Intern at Betfair Romania Development, where I'm involved in large-scale, distributed cloud systems.</p>
+</div>
+<div align="center">
+    <h2>🌐 Connect with Me</h2>
+    <p>I'm always open to connecting with like-minded professionals. You can find me on LinkedIn, or drop me an email if you'd like to collaborate or discuss anything tech-related. Let's innovate together!</p>
+    <div align="center">
+        <a href="https://www.linkedin.com/in/cordisdaniel">
+            <img src="https://img.shields.io/badge/Cordiș-Daniel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+    </div>
+</div>
+<div align="center">
+    <h2>💻 Programming Languages</h2>
+    <p>I have experience in a variety of programming languages that equip me with the versatility to tackle a wide range of problems:</p>
+    <div align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    </div>
+</div>
+<div align="center">
+    <h2>🔧 Skills & Technologies</h2>
+    <p>I'm proficient with a wide array of tools and technologies essential for software development:</p>
+    <div align="center">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+    </div>
+</div>
+<div>
+    <h2>💼 Experience</h2>
+    <ul>
+        <li><strong>Betfair Romania Development</strong> - Java Intern</li>
+        <ul>
+            <li>Working on large-scale, distributed systems in the cloud</li>
+            <li>Experienced with AWS Cloud services including ECS, CloudFormation, IAM, EC2, RDS, CloudWatch, and S3</li>
+            <li>Implemented CI/CD pipelines using GitHub Actions and Jenkins</li>
+            <li>Managed databases with Flyway and Liquibase</li>
+            <li>Hands-on with Kafka, Docker, Kubernetes</li>
+            <li>Writing clean, efficient code in Java and Kotlin following Clean Coding principles</li>
+            <li>Extensive experience in unit and integration testing with JUnit5</li>
+            <li>Embracing Agile methodologies for continuous improvement and collaboration</li>
+        </ul>
+        <li><strong>Endava Cluj</strong> - Former Full-Stack Developer Intern</li>
+        <ul>
+            <li>Contributed to full-stack development projects focusing on user-centered design and performance</li>
+            <li>Worked with JavaScript for front-end development</li>
+            <li>Integrated front-end solutions with back-end services in Java, .NET, and Spring Boot</li>
+            <li>Extensive experience in testing using Mockito, Selenium, and JUnit5</li>
+            <li>Developed Android applications and contributed to Robotic Process Automation (RPA) projects</li>
+            <li>Collaborated closely with cross-functional teams to deliver high-quality software solutions</li>
+        </ul>
+    </ul>
+</div>
+<div align="center">
+    <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+    <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+</div>

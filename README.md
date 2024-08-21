@@ -59,12 +59,10 @@
         </ul>
         <li><strong>Java Bootcamp Betfair (Oct-Dec 2023)</strong></li>
             <ul>
-                <li>Received certification: <a href="https://learn.digitalstack.ro/mod/customcert/verify_certificate.php">Java Bootcamp Betfair, Oct-Dec 2023</a></li>
+                <li>Received certification: <a href="https://learn.digitalstack.ro/mod/customcert/verify_certificate.php"> Java Bootcamp Betfair, Oct-Dec 2023, verify code: o0h7crUwNX </a></li>
                 <li>Learned about Advanced Java Class Design, Generics and Collections, Design Patterns, Streams and Functional Programming, Concurrency, Databases, and Post JDK8 concepts</li>
-                <!-- Uncomment the below line if you want to upload a screenshot -->
-                <!-- <li><img src="path_to_your_screenshot.png" alt="Java Bootcamp Certificate" width="600"/></li> -->
-                <!-- Uncomment the below line if you want to upload the PDF -->
-                <!-- <li><a href="">View Certificate PDF</a></li> -->
+                <li><img src="![image](https://github.com/user-attachments/assets/bb26fb3b-e7ab-49b0-966f-f0e9636a4fba)
+" alt="Java Bootcamp Certificate" width="600"/></li>
             </ul>
         <li><strong>Endava Cluj</strong> - Former Full-Stack Developer Intern</li>
         <ul>
